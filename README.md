@@ -33,7 +33,7 @@ The platform fetches all product data dynamically from the **DummyJSON API**.
 Access the hosted version of the project:
 
 <div align="center">
-  <a href="https://ahmed-hashim2024.github.io/E-commarcy/">
+  <a href="https://ahmed-hashim2024.github.io/E-Commerce/">
     <img src="https://img.shields.io/badge/VIEW%20LIVE%20PROJECT-28a745?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo Link" />
   </a>
 </div>
