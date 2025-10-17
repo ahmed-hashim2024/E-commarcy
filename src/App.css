@@ -1,0 +1,12 @@
+.Navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+.signInbg {
+  background: #125931;
+  background: linear-gradient(
+    50deg,
+    rgba(18, 89, 49, 1) 0%,
+    rgba(51, 150, 93, 1) 50%,
+    rgba(18, 89, 49, 1) 100%
+  );
+}
